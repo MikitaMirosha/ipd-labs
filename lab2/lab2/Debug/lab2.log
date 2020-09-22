@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\Desktop\lab2\lab2\lab2\main.cpp(90,6): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  lab2.vcxproj -> C:\Users\User\Desktop\lab2\lab2\Debug\lab2.exe
