@@ -9,5 +9,5 @@ int main(int argc, char *argv[])
     QFont mainFont("Verdana", 12, QFont::Light, false);
     window.setFont(mainFont);
     window.show();
-    return app.exec();
+    return app.exec(); 
 }
